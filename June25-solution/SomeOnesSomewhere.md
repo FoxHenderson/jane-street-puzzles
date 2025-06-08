@@ -18,3 +18,9 @@ Considering each squares postion in terms of the contigious 135x135 grid, we gai
 "SUM OF CUBES IS SQUARE". Noticing the tiles conveniently placed on the tables in image 1 and 7, we get the final answer of 
 
 THE SUM OF CUBES IS A SQUARE
+
+Some other things that I tried include:
+- Overlaying the images (of both incomplete, complete and added tiles) to find overlapping/key tiles
+- Considering the coordinates of the top/key tile on the table next to each board
+- Considering the positioning of the scrabble tiles adjacent to each board
+- Considering the scrabble letter associated with each tile
