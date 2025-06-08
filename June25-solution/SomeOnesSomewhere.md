@@ -14,7 +14,7 @@ Writing a quick greedy algorithm, we can solve all the partial tilings we have b
 
 Finally, recalling the problem title 'Some Ones, Somewhere' we turn our attention to the smallest 1x1 squares, in particular their coordinates. 
 
-Considering each squares postion in terms of the contigious 135x135 grid, we gain 9 sets of coordinates. Taking the each number mod 26 maps each one to a letter, yeilding the following:
+Considering each squares postion in terms of the contiguous 135x135 grid, we gain 9 sets of coordinates. Taking the each number mod 26 maps each one to a letter, yeilding the following:
 "SUM OF CUBES IS SQUARE". Noticing the tiles conveniently placed on the tables in image 1 and 7, we get the final answer of 
 
 THE SUM OF CUBES IS A SQUARE
